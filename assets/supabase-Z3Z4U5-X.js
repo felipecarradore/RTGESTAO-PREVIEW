@@ -1,0 +1,1 @@
+import{t as e}from"./supabase-DEa95Csy.js";var t=`https://fqincrjmmbketqwbfdbu.supabase.co`,n=`sb_publishable_Ocqfo5Eel4j5QGvzbmiG2w_NZSUIDEG`,r=!!n,i=`${t}/functions/v1`,a=r?e(t,n,{auth:{autoRefreshToken:!0,detectSessionInUrl:!0,persistSession:!0,storageKey:`rtgestao-auth-session`}}):null;export{a as n,i as r,r as t};
